@@ -1,0 +1,2 @@
+import pywhatkit
+pywhatkit.sendwhatmsg('+918428858920','Happy birthday dear friend',19,26)
